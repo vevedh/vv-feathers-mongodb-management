@@ -1,7 +1,7 @@
 {
   "name": "vv-feathers-mongodb-management",
   "description": "Feathers dove service adapters for managing MongoDB databases, collections and users",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "homepage": "https://github.com/feathersjs-ecosystem/feathers-mongodb-management",
   "main": "lib/index.js",
   "type": "module",

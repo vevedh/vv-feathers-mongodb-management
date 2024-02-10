@@ -5,6 +5,7 @@
    ```
    Error : TypeError: Cannot read properties of undefined (reading 'split')
    ```
+> Maj of mongodb to 6.3.0
 
 [![Build Status](https://app.travis-ci.com/feathersjs-ecosystem/feathers-mongodb-management.png?branch=master)](https://app.travis-ci.com/feathersjs-ecosystem/feathers-mongodb-management)
 [![Code Climate](https://codeclimate.com/github/feathersjs-ecosystem/feathers-mongodb-management/badges/gpa.svg)](https://codeclimate.com/github/feathersjs-ecosystem/feathers-mongodb-management)
